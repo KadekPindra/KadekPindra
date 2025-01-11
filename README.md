@@ -2,7 +2,7 @@
  
 Perkenalkan nama saya **Kadek Pindra**.<br>
  
-Saya seseorang yang memiliki **Fullstack Developer**<br>
+Saya seseorang yang memiliki minat di bidang **Fullstack Developer**<br>
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/kadek-pindra-8a7030328) ku ya.
  
