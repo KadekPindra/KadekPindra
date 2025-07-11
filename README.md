@@ -33,6 +33,12 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadekpindra&show_icons=true&theme=dark&locale=en&layout=compact" alt="kadekpindra" /></p>
+![](https://github-readme-stats.vercel.app/api?username=kadekpindra&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadekpindra&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="kadekpindra" /></p>
+<br>
+
+![](https://nirzak-streak-stats.vercel.app/?user=kadekpindra&theme=radical&hide_border=false)<br/>
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadekpindra&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
