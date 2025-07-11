@@ -1,9 +1,6 @@
 <h1 align="center">Hello!👋 I'am Pindraa</h1>
 <h3 align="center">Web developer with a strong interest in backend and fullstack projects — currently exploring AI integrations and building real-world systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadekpindra&label=Profile%20views&color=0e75b6&style=flat" alt="kadekpindra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadekpindra" alt="kadekpindra" /></a> </p>
 
 - 🔭 I’m currently working on **Exito.id**
 
