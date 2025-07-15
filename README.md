@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **Exito.id**
+- 🔭 I’m currently working on **Exito.id as Fullstack Developer**
 
-- 🌱 I’m currently learning **AI Automatization N8N**
+- 🌱 I’m currently learning **AI Automatization n8n**
 
 - 👯 I’m currently internship at **PT. Jinom**
 
