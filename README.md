@@ -3,11 +3,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **Exito.id as Fullstack Developer & Web Developer Intern at PT.JINOM**
+- 🔭 I’m currently working on **Exito.id as Fullstack Developer**
 
 - 🌱 I’m currently learning **AI Automatization n8n**
 
-- 👯 I’m currently internship at **PT. Jinom**
+- 👯 I’m currently internship at **PT. Jinom as Web Developer**
 
 - 🤝 I’m currently studying at **Udayana University**
 
