@@ -1,5 +1,6 @@
 <h1 align="center">Hello!👋 I'am Pindraa</h1>
 <h3 align="center">Web developer with a strong interest in backend and fullstack projects, currently exploring AI Automatization and Integrations to building real-world systems.</h3>
+<h4 align="center"><b>Be the best or nothing at all!</b></h2>
 
 <br>
 
@@ -16,8 +17,6 @@
 - 📫 How to reach me **kadekpindra@gmail.com**
 
 - 📄 Know about my experiences [Personal Resume](https://www.canva.com/design/DAGs3nHl-iE/AGgLBsCvsrfOSAeb5WwnUA/edit?utm_content=DAGs3nHl-iE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-- **"Be the best or nothing at all!"**
 
 <br>
 
