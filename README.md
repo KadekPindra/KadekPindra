@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Personal Resume](https://www.canva.com/design/DAGs3nHl-iE/AGgLBsCvsrfOSAeb5WwnUA/edit?utm_content=DAGs3nHl-iE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ My Quotes **"Be the best or nothing at all!"**
+- **"Be the best or nothing at all!"**
 
 <br>
 
