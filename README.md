@@ -12,7 +12,7 @@
 
 - 🤝 I’m currently studying at **Udayana University**
 
-- 💬 Ask me about **Fullstack Development, AI, n8n, etc**
+- 💬 Ask me about **Fullstack Development, AI, n8n automatization, etc**
 
 - 📫 How to reach me **kadekpindra@gmail.com**
 
