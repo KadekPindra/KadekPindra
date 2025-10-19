@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **AI Automatization n8n**
 
-- 👯 I’m currently internship at **PT. Jinom as Web Developer**
-
 - 🤝 I’m currently studying at **Udayana University**
 
 - 💬 Ask me about **Fullstack Development, AI, n8n automatization, etc**
