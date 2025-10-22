@@ -1,6 +1,6 @@
 <h1 align="center">Hello!👋 I'am Pindraa</h1>
 <h3 align="center">Web developer with a strong interest in backend and fullstack projects, currently exploring AI Automatization and Integrations to building real-world systems.</h3>
-<h4 align="center"><b>Be the best or nothing at all!</b></h2>
+<h4 align="center"><strong>Be the best or nothing at all!</b></h2>
 
 <br>
 
