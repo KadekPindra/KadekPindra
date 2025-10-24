@@ -17,7 +17,6 @@
 - 📄 Know about my experiences [Personal Resume](https://www.canva.com/design/DAGs3nHl-iE/AGgLBsCvsrfOSAeb5WwnUA/edit?utm_content=DAGs3nHl-iE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br>
-
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kadekpindra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadek pindra" height="30" width="40" /></a>
