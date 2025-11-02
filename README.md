@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Exito.id as Fullstack Developer**
 
-- 🌱 I’m currently learning **AI Automatization n8n **
+- 🌱 I’m currently learning **AI Automatization n8n**
 
 - 🤝 I’m currently studying at **Udayana University**
 
