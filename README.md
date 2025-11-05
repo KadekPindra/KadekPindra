@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kadekpindra@gmail.com**
 
-- 📄 Know about my experiences [Personal Resume](https://www.canva.com/design/DAGs3nHl-iE/AGgLBsCvsrfOSAeb5WwnUA/edit?utm_content=DAGs3nHl-iE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences on my [Personal Resume](https://www.canva.com/design/DAGs3nHl-iE/AGgLBsCvsrfOSAeb5WwnUA/edit?utm_content=DAGs3nHl-iE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br>
 <h3 align="left">Connect with me :</h3>
