@@ -31,12 +31,6 @@
 <br>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=kadekpindra&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<b>My GitHub Stats</b>
 
-<br>
-
-![](https://nirzak-streak-stats.vercel.app/?user=kadekpindra&theme=radical&hide_border=false)<br/>
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadekpindra&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="http://www.github.com/kadekpindra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kadekpindra&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
