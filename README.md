@@ -28,6 +28,7 @@ Passionate Fullstack Developer and Information Technology student at Udayana Uni
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@itsmepindra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KadekPindra)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kadekpindra@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CA8L_Q0dGYFt5kYF7I3U--hgE7JcRIEl/view?usp=sharing)
 
 ---
 
