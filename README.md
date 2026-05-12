@@ -150,4 +150,4 @@ Improved cross-language communication between international clients and internal
 
 ---
 
-![](https://komarev.com/ghpvc/?username=kadekpindra&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=kadekpindra&icon=0&color=000000)
