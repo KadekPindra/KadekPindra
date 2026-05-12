@@ -41,8 +41,6 @@ Passionate Fullstack Developer and Information Technology student at Udayana Uni
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 
----
-
 ## 🎨 Frontend Development
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -52,8 +50,6 @@ Passionate Fullstack Developer and Information Technology student at Udayana Uni
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
 
----
-
 ## ⚙️ Backend Development
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
@@ -61,8 +57,6 @@ Passionate Fullstack Developer and Information Technology student at Udayana Uni
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat-square&logo=livewire&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat-square&logoColor=%23000000)
-
----
 
 ## 🤖 AI & Automation
 
@@ -81,8 +75,6 @@ Passionate Fullstack Developer and Information Technology student at Udayana Uni
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
----
-
 ## ☁️ Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
@@ -92,8 +84,6 @@ Passionate Fullstack Developer and Information Technology student at Udayana Uni
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-
----
 
 ## 🛠️ Tools & Others
 
